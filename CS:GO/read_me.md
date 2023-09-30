@@ -13,3 +13,5 @@ Executes my personal main config for usage in Matchmaking games, needs _buybinds
 
 # dynamic_clantag.cfg
 Adds different clanIDs to default keybinds of _W A S D B F R Mouse2 1 Space Ctrl_
+# dynamic_clantag_disable.dfg
+Removes the clantag changes from keybinds

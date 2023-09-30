@@ -1,4 +1,4 @@
-## Counterstrike: Source
+# Counterstrike: Source
 
-# buybinds
+## buybinds
 Used to bind the numpad and its surroundings to buy commands

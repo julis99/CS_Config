@@ -1,5 +1,8 @@
 # Patchnotes for [config_CS2.cfg](https://github.com/julis99/CS_Config/blob/main/CS2/config_CS2.cfg)
 
+## ##Version 2.2.2
+- added *cl_usenewbob 1* to use the new bobbling arround
+
 ## ##Version 2.2.1
 - Removed hint for _exec lobbycmd_ as these commands have stopped working
 

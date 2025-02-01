@@ -25,3 +25,14 @@ After CS2 Update 4/25/2024
   - Bound to *q* as it was in CS:GO
   - But watch out it does not work like in CS:GO
     - it redraws the weapon with the other hand, you cannot shoot for a moment
+
+## ##Version 2.4.0
+
+After CS2 Update 1/30/2025
+
+- Added *buy zeus* to buybinds_CS2
+  - bound to *kp_multiply*
+- removed aliases *+fader*, *-fader* from prac_CS2, as they dont work anymore
+- added *disable prediction* section to config_CS2
+  - *cl_predict_\** will make prediction on the clients and won't show the correct server side
+- Updated crosshair_CS2 to feature the grenade crosshair commands

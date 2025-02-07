@@ -44,3 +44,8 @@ After CS Update 02/07/2025
 - Added *cl_hud_radar_map_additive true* to Config_CS2
 - Update crosshair_CS2 to Version 2.0.2
   - reduced *cl_grenadecrosshairdelay_smoke* to 1.5 sec
+
+## ##Version 2.4.2
+
+- changed *cl_hud_radar_map_additive* to false
+- added *cl_hud_radar_background_alpha*, set to 0 to keep background visible but blurred

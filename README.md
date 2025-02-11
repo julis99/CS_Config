@@ -12,6 +12,6 @@ This game might not be playable anymore, still I have kept my .cfg files in whic
 
 ## [Counter Strike 2](https://github.com/julis99/CS_Config/blob/main/CS2/__CS_2__.md)
 
-*WATCH OUT* as I currently do not play CS2 these Config Files are not up to date (executing config_CS2 after execing prac_CS2 results in a crash in Update 2024-11-14)
-
 For the new star on the CS horizon I already have some .cfg files, yet as some commands from CS:GO are still missing I still have them under development
+This config_CS2.cfg is expanding with every update, at least those scripts are untouched by valve
+

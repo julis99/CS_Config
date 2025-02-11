@@ -49,3 +49,11 @@ After CS Update 02/07/2025
 
 - changed *cl_hud_radar_map_additive* to false
 - added *cl_hud_radar_background_alpha*, set to 0 to keep background visible but blurred
+
+## ##Version 2.5.0
+
+- added new aliases
+  - *dc*   - to shorten *disconnect*
+  - *exit* - aliases *quit*
+- added *cl_invites_only_mainmenu* and set to true to prevent invites when ingame
+- added *cl_radar_square_with_scoreboard* and set to true

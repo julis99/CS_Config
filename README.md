@@ -19,4 +19,6 @@ To use my exact config just look at the latest [release](https://github.com/juli
 ```path
 %BROWSE_LOCAL_FILES%/game/csgo/cfg 
 ```
+Then simply type ```exec config_CS2``` into the console or add ```+exec config_CS2``` to your CS2 [Launch Options](https://developer.valvesoftware.com/wiki/Command_line_options) which
+will run the config_CS2 everytime you boot up Counter Strike
 

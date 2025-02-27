@@ -52,8 +52,28 @@ After CS Update 02/07/2025
 
 ## ##Version 2.5.0
 
+Adter CS Update 02/14/2025
+
 - added new aliases
   - *dc*   - to shorten *disconnect*
   - *exit* - aliases *quit*
 - added *cl_invites_only_mainmenu* and set to true to prevent invites when ingame
 - added *cl_radar_square_with_scoreboard* and set to true
+
+
+## ##Version 2.6.0
+
+- **new dependency**: *viewmodel_cod.cfg*
+  - will change the viewmodel to feature a centered weapon
+- added new aliases
+  - *cod*   - centres the gun (like in COD)
+  - *reset* - executes config_CS2
+- changed lobby commands to be working again
+  - *Lobby* Background is set to *de_train*
+  - *Inspect* Background is set to *warehouse*
+- Update prac_CS2 to version 1.6.1
+  - new alias:
+    - *noshowimpacts* - revert the *sv_showimpact* changes
+  - added *sv_showimpacts_penetration* and set to 1,
+  to get more detailed penetration feedback
+  - reduced *sv_showimpacts_time* to 3 sec

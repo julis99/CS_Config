@@ -59,7 +59,7 @@ Adter CS Update 02/14/2025
   - *exit* - aliases *quit*
 - added *cl_invites_only_mainmenu* and set to true to prevent invites when ingame
 - added *cl_radar_square_with_scoreboard* and set to true
-
+PULXRLRYH
 
 ## ##Version 2.6.0
 
@@ -77,3 +77,15 @@ Adter CS Update 02/14/2025
   - added *sv_showimpacts_penetration* and set to 1,
   to get more detailed penetration feedback
   - reduced *sv_showimpacts_time* to 3 sec
+
+## ##Version 2.6.1
+- change lobby backgrounds
+  - *Lobby* -> cs_italy
+  - *Inspect* -> de_train
+- update *volume_CS2*
+  - added *snd_headphone_eq* and *snd_headphone_eq_active*
+    - both set to 1
+- update *crosshair_CS2*
+  - added *cl_show_observer_crosshair* and set to 2 (show crosshair of everyone)
+  - added *cl_observed_bot_crosshair* and set to 1 (show own crosshair on bot spec, WHEN takeover is possible)
+  - upadate own crosshair code

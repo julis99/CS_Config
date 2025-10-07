@@ -89,3 +89,22 @@ PULXRLRYH
   - added *cl_show_observer_crosshair* and set to 2 (show crosshair of everyone)
   - added *cl_observed_bot_crosshair* and set to 1 (show own crosshair on bot spec, WHEN takeover is possible)
   - upadate own crosshair code
+
+## ##Version 2.6.2
+- add *cl_weapon_selection_rarity_color* and set to 1
+  - will make the weapon icon glow in the rarity color of the skin
+
+## ##Version 2.7.1
+- change Lobby backgrounds
+  - *Lobby* -> de_ancient
+  - *Inspect* -> de_train
+- update *crosshair_CS2* to version *2.1.1*
+  - added *cl_sniper_delay_unscope* and set to False (undelayed unscope)
+  - added *cl_crosshair_sniper_width* and set to 1 (minimum width)
+  - added *cl_sniper_show_inaccuracy* and set to True
+  - added *cl_sniper_auto_rezoom* and set to True
+- add **Player Settings** section
+  - added *cl_teamcounter_playercount_instead_of_avatars* and set to 0
+  - added *cl_teamid_overhead_colors_show* and set to 1
+  - added *cl_teamid_overhead_mode* and set to 3 (PIPS, Names, Health and Equipment)
+  - added *cl_teammate_colors_show* and set to 2 (colors and letters)

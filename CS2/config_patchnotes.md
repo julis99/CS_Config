@@ -108,3 +108,6 @@ PULXRLRYH
   - added *cl_teamid_overhead_colors_show* and set to 1
   - added *cl_teamid_overhead_mode* and set to 3 (PIPS, Names, Health and Equipment)
   - added *cl_teammate_colors_show* and set to 2 (colors and letters)
+
+## ##Version 2.7.3
+- change *mm_dedicated_search_maxping* to 30 *(from 50)*
